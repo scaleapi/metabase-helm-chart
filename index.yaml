@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/metabase/metabase
     urls:
-    - https://github.com/scaleapi/metabase-helm-chart/releases/metabase-2.18.1/metabase-2.18.1.tgz
+    - releases/metabase-2.18.1.tgz
     version: 2.18.1
 generated: "2020-11-10T13:10:51.457964191Z"
